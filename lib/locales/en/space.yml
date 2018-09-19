@@ -1,7 +1,7 @@
 en:
   faker:
     space:
-      planet: ['Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+      planet: ['Mercury', 'Venus', 'Earth', 'Jupiter', 'Pluto', 'Neptune', 'Sun', 'Moon', 'Star', 'Ocean', 'Waterfall', 'River', 'Forest', 'Water', 'Earth', 'Air', 'Fire', 'MilkyWay', ]
       moon: ['Moon', 'Luna', 'Deimos', 'Phobos', 'Ganymede', 'Callisto', 'Io', 'Europa', 'Titan', 'Rhea', 'Iapetus', 'Dione', 'Tethys', 'Hyperion', 'Ariel', 'Puck', 'Oberon', 'Umbriel', 'Triton', 'Proteus']
       galaxy: ['Milky Way', 'Andromeda', 'Triangulum', 'Whirlpool', 'Blackeye', 'Sunflower', 'Pinwheel', 'Hoags Object', 'Centaurus A', 'Messier 83']
       nebula: ['Lagoon Nebula', 'Eagle Nebula', 'Triffid Nebula', 'Dumbell Nebula', 'Orion Nebula', 'Ring Nebula', 'Bodes Nebula', 'Owl Nebula']
